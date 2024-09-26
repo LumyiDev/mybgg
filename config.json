@@ -4,15 +4,15 @@
         "title": ""
     },
     "boardgamegeek": {
-        "user_name": "YOUR_BGG_USERNAME",
+        "user_name": "UVicGamesClub",
         "extra_params": {
             "own": 1
         }
     },
     "algolia": {
-        "app_id": "YOUR_APP_ID",
-        "api_key_search_only": "YOUR_PUBLIC_API_KEY",
-        "index_name": "YOUR_INDEX_NAME",
-        "hits_per_page": 24
+        "app_id": "DEEFQPCV39",
+        "api_key_search_only": "fd3adf2932a910df24029688d95f7735",
+        "index_name": "Games",
+        "hits_per_page": 32
     }
 }
