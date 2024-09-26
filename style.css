@@ -9,7 +9,7 @@ body {
     line-height: 1.2;
 }
 a {
-    color: #b71c1c;
+    color: #9f9fed;
 }
 strong {
     font-weight: 700;
@@ -181,7 +181,7 @@ body {
             border-width: 0 1px 1px 0;
         }
         .ais-Highlight-highlighted {
-            background: #b71c1c;
+            background: #9f9fed;
             color: white;
         }
         .game-wrapper {
@@ -272,7 +272,7 @@ body {
 }
 .facets .clear-all {}
     .ais-ClearRefinements-button {
-        background: #b71c1c;
+        background: #9f9fed;
         color: white;
         padding: 3px 8px;
         border-radius: 5px;
@@ -311,7 +311,7 @@ body {
     }
     .facet label {
         cursor: pointer;
-        color: #b71c1c;
+        color: #9f9fed;
     }
     .ais-HierarchicalMenu-item, .ais-RefinementList-item, .ais-NumericMenu-item {
         line-height: 2em;
@@ -357,5 +357,5 @@ body {
     }
     .ais-Pagination-item--selected a {
         font-weight: bold;
-        border: 2px solid #b71c1c;
+        border: 2px solid #9f9fed;
     }
