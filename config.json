@@ -13,6 +13,6 @@
         "app_id": "DEEFQPCV39",
         "api_key_search_only": "fd3adf2932a910df24029688d95f7735",
         "index_name": "Games",
-        "hits_per_page": 32
+        "hits_per_page": 128
     }
 }
